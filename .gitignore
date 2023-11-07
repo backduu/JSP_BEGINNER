@@ -1,0 +1,41 @@
+/.metadata/
+
+Servers/.project
+
+Servers/.settings/org.eclipse.core.resources.prefs
+
+Servers/.settings/org.eclipse.wst.server.core.prefs
+
+Servers/Tomcat v10.0 Server at localhost-config/catalina.policy
+
+Servers/Tomcat v10.0 Server at localhost-config/catalina.properties
+
+Servers/Tomcat v10.0 Server at localhost-config/context.xml
+
+Servers/Tomcat v10.0 Server at localhost-config/tomcat-users.xml
+
+StudyBasicJSP/.classpath
+
+StudyBasicJSP/.settings/.jsdtscope
+
+StudyBasicJSP/.settings/org.eclipse.core.resources.prefs
+
+StudyBasicJSP/.settings/org.eclipse.jdt.core.prefs
+
+StudyBasicJSP/.settings/org.eclipse.wst.common.component
+
+StudyBasicJSP/.settings/org.eclipse.wst.common.project.facet.core.xml
+
+StudyBasicJSP/.settings/org.eclipse.wst.jsdt.ui.superType.container
+
+StudyBasicJSP/.settings/org.eclipse.wst.jsdt.ui.superType.name
+
+StudyBasicJSP/WebContent/META-INF/MANIFEST.MF
+
+Servers/Tomcat v10.0 Server at localhost-config/server.xml
+
+Servers/Tomcat v10.0 Server at localhost-config/web.xml
+
+StudyBasicJSP/.project
+
+StudyBasicJSP/WebContent/WEB-INF/web.xml
